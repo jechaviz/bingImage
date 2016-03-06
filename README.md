@@ -1,6 +1,6 @@
 This is a php program which can return the Bing`s background updated everyday.
 
-When you deploy this page, you can get insert the newest background from bing into your web site.
+When you deploy this page, you can get the newest background from bing which could be insert directly into your web site.
 
 Like this :
 
